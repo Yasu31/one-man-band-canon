@@ -1,7 +1,9 @@
 # one-man-band-canon
 Play all 3 violin parts to Pachelbel's Canon by yourself!
 
+Fun fact: The cello part is hardcoded with just 9 lines of code.
+
 For macOS, must be run in Terminal for mic access
 
-* [Video](https://www.youtube.com/watch?v=IOHgfZOqipo)
+* [Demo Video](https://www.youtube.com/watch?v=IOHgfZOqipo)
 * [Sheet Music](https://imslp.org/wiki/Canon_and_Gigue_in_D_major%2C_P.37_(Pachelbel%2C_Johann)#tabScore2)
