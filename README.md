@@ -1,4 +1,5 @@
-# pachelbel-canon-alone
+# one-man-band-canon
+Play all 3 violin parts to Pachelbel's Canon by yourself!
 
 For macOS, must be run in Terminal for mic access
 
